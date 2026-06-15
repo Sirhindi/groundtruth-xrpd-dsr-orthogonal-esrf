@@ -100,9 +100,3 @@ are counted as true positives and used to compute precision, recall, and F1-scor
 
 
 ## License
-
-
-## Contact
-
-Rabia Sirhindi and Nazar Khan, Department of Computer Science, University of the
-Punjab, Lahore, Pakistan.
